@@ -18,4 +18,4 @@ I'm an aspiring programmer from Colorado.
 
 I started my programming journey in 2020 and use many platforms learning Python, JavaScript, SQL, NoSQL, Docker, and APIs. I'm interested in learning more and becoming a full stack developer.
 
-My main background is Telecommunications. I current handle software support but I have experience in RF Design and AutoCAD mapping.
+My main background is Telecommunications. I current handle software support but I have 20+ years experience in RF Design and AutoCAD mapping.
